@@ -32,7 +32,7 @@ Hiking in the Rockies, competitive MOBA strategy games, and English/Portuguese.
 
 | Project | What it answers | Stack |
 |---------|-----------------|-------|
-| **[Power BI exercise set](https://github.com/flaakira/Power-BI-exercise-set)** | Building report models and measures from raw workout/ops data | Power BI, DAX, Excel |
+| **[Pokemon Top Trumps](https://github.com/flaakira/pokemon-top-trumps)** | Single-file HTML5 card game: 6v6 Pokémon battles with strategy and stats. Includes 500-match analysis with type tiers and game balance | HTML5, JavaScript, PokeAPI |\n| **[True or Woof](https://github.com/flaakira/true-or-woof)** | Logic puzzle game: distinguish real facts from fake statements | HTML, CSS, JavaScript |\n| **[Power BI exercise set](https://github.com/flaakira/Power-BI-exercise-set)** | Building report models and measures from raw workout/ops data | Power BI, DAX, Excel |
 | **[Braintree SQL challenge](https://github.com/flaakira/BrainTree_SQL_Coding_Challenge_Data_Analyst)** | Analyst interview challenge: revenue and retention questions in pure SQL | T-SQL |
 | **[Currency & stock scraper](https://github.com/flaakira/currency-and-stock-scraper)** | Automated daily FX and equity pulls for tracking market moves | Python, pandas, Datareader |
 | **[Tweet sentiment analysis](https://github.com/flaakira/tweet-sentiment-analysis)** | Reading public sentiment from a Twitter corpus | Python, NLP, Jupyter |
