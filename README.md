@@ -26,3 +26,15 @@ IBM Predictive Analytics Modeler – Foundation · IBM Business Intelligence Ana
 ### Beyond work
 
 Hiking in the Rockies, competitive MOBA strategy games, and English/Portuguese.
+
+
+## All Projects & Work
+
+| Project | What it answers | Stack |
+|---------|-----------------|-------|
+| **[Power BI exercise set](https://github.com/flaakira/Power-BI-exercise-set)** | Building report models and measures from raw workout/ops data | Power BI, DAX, Excel |
+| **[Braintree SQL challenge](https://github.com/flaakira/BrainTree_SQL_Coding_Challenge_Data_Analyst)** | Analyst interview challenge: revenue and retention questions in pure SQL | T-SQL |
+| **[Currency & stock scraper](https://github.com/flaakira/currency-and-stock-scraper)** | Automated daily FX and equity pulls for tracking market moves | Python, pandas, Datareader |
+| **[Tweet sentiment analysis](https://github.com/flaakira/tweet-sentiment-analysis)** | Reading public sentiment from a Twitter corpus | Python, NLP, Jupyter |
+| **[SAIT data projects](https://github.com/flaakira/SAIT_data_projects)** | Coursework portfolio: cleaning, modelling, visualization | Excel, Power BI, SQL |
+| **[Portfolio & blog](https://github.com/flaakira/flaakira.github.io)** | Write-ups on analytics workflow and markdown/tooling notes | Jekyll, HTML, CSS, JS |
